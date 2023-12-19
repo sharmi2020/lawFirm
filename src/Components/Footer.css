@@ -1,0 +1,19 @@
+.Footer{
+    height:60px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    word-spacing: 2px;
+   color:white;
+   margin-top:2rem;
+   margin-left:15rem;
+    
+    
+}
+
+.Footer > .nav-items>a{
+    color:inherit;
+   cursor:pointer;
+    text-decoration:none !important;
+    margin:15px;
+    }

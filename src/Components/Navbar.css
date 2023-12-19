@@ -1,0 +1,22 @@
+.Navbar{
+    height:60px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+   color:white;
+   margin:15px;
+    
+    
+}
+
+.Navbar > .nav-items>a{
+    color:inherit;
+   cursor:pointer;
+    text-decoration:none !important;
+    margin:15px;
+    }
+
+.button{
+    color:yellow;
+    gap:20rem;
+}

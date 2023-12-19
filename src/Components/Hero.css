@@ -1,0 +1,85 @@
+.Hero{
+    color:white;
+}
+.col-xl-6{
+    color:white;
+    font-size:2rem;
+}
+
+.col-xl-6>p{
+    color:grey;
+    font-size:20px;
+}
+label{
+    position:relative;
+    
+
+}
+.mail{
+    position:absolute;
+}
+.input{
+    border-radius:25px;
+    margin:9px 5px 8px px;
+    padding:10px 85px 8px 10px;
+}
+.input[type=text]{
+    
+    width:460px;
+    height:50px;
+    color:grey;
+    
+}
+.input-button{
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    color:black;
+    cursor:pointer;
+    margin:0 5px 3px 5px;
+    padding:2px 3px 2px 2px;
+    border-radius:50px;
+    letter-spacing:2px;
+    background-color:yellow;
+    font-size:bold;
+    }
+    .hero-image{
+       background-color:yellow;
+       border-top:-10rem;
+       border-radius:70px;
+       height:20rem;
+       width:25rem;
+    }
+    
+   .para{
+    color:white;
+    font-size:1px;
+   }
+   .head{
+    color:white;
+   }
+   hr.vertical {
+    height:100%; /* you might need some positioning for this to work, see other questions about 100% height */
+    width:0;
+    border:1px solid black;
+}
+ .center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    margin:10px;
+    padding:20px;
+ }
+ .click{
+    background-color:yellow;
+    color:black;
+    border-radius:25px;
+ }
+ .box{
+    border:10px;
+    
+ }
+ 
+ 
